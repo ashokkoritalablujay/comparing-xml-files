@@ -6,6 +6,7 @@ repositories {
 }
 
 dependencies {
+	compile 'com.sun.xml.security:apache-xmlsec:1.0.1'
 	testCompile "junit:junit:4.11"
 }
 
