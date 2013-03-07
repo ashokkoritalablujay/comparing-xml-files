@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<user admin="true" id="3" xmlns="http://my.name.space">
+    <name xmlns="http://my.name.space">Testuser</name>
+    <email xmlns="http://my.name.space">mail@example.com</email>
+</user>
